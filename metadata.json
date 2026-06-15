@@ -1,0 +1,10 @@
+{
+  "name": "AI Smart Classroom Analysis",
+  "description": "An intelligent classroom monitoring and personalized student daily guidance system utilizing AI for engagement tracking, adaptive goal recommendations, academic performance forecasting, and an assistant chatbot.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
